@@ -5,7 +5,8 @@ To install `gset/go` function in a zsh command_prompt
 ```
 $ git clone git@github.com:QDucasse/zsh.git
 $ cd zsh
-$ cat ~/.zshrc go_gset > ~/.zshrc
+$ cat ~/.bashrc go_gset > ~/.bashrc
+$ cat ~/.zshrc  go_gset > ~/.zshrc
 ```
 
 Usage:
