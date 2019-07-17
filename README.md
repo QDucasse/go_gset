@@ -1,6 +1,6 @@
-# .zshrc
+# go / gset
 
-To install `gset`/`go` function in a zsh command_prompt
+To install `gset/go` function in a zsh command_prompt
  
 ```
 $ git clone git@github.com:QDucasse/zsh.git
