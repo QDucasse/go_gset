@@ -1,6 +1,6 @@
 # .zshrc
 
-To install a basic ==zshrc== file and a nice ==gset==/==go== function
+To install a basic `zshrc`file and a `gset`/`go` function
  
 ```
 git clone git@github.com:QDucasse/zsh.git
